@@ -1,0 +1,15 @@
+
+[+] Register User 
+[+] Login User  
+[+] Generate Token 
+[+] Who Are You / varify Token
+[+] Log out 
+[+] Working with Local Storage at last
+
+
+
+[+] Add Product by Admin
+[+] Update Product by Admin
+[+] Remove Product by Admin
+[+] Get all product.
+[+] Get product by Id
