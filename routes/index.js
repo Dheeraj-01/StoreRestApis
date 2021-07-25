@@ -9,8 +9,8 @@ router.post('/logout',loginController.logout);
 
 
 router.post('/addProduct',CreateProductController.add);
-router.post('/updateProduct/:id',CreateProductController.update);
-router.post('/deleteProduct/:id',CreateProductController.distroy);
+router.put('/updateProduct/:id',CreateProductController.update);
+router.delete('/deleteProduct/:id',CreateProductController.distroy);
 
 
 router.get('/produts',CreateProductController.store);
